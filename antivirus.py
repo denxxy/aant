@@ -8,7 +8,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # API-ключ VirusTotal
-VIRUSTOTAL_API_KEY = 'c0f616860cd015f235deef3012cdb029912cd47d784eaa6526e6e87aa8be63c3'
+VIRUSTOTAL_API_KEY = ''
 VIRUS_DB = 'virus_db.txt'
 SCAN_HISTORY = 'scan_history.txt'
 
